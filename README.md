@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Es una aplicacion de un calendario que no esta implementado el back pero tiene redux y thunk permite crear modificar y borrar un evento para el calendario
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
